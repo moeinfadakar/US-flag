@@ -1,0 +1,34 @@
+
+#blue{
+    background-color: #002868;
+    width: 175px;
+    height: 132px;
+    position: absolute;
+    margin-top: 2px;
+}
+.star{
+    color: white;
+
+}
+span{
+    position: absolute;
+}
+
+
+#red td{
+    background-color: #e71a46 ;
+    width: 400px;
+    height: 18px;
+    padding: 0;
+}
+#white td{
+    background-color: white ;
+    width: 400px;
+    height: 18px;
+    padding: 0;
+}
+
+#container{
+    margin-top: 10%;
+    margin-left: 50%;
+}
