@@ -23,7 +23,7 @@ making stars of US flag with php
 
 <h3>See Some image(s) 📸</h3>
 <a>
-<img  src="ThisisaPicture.png" >
+<img  src="thisisphoto.png" >
 </a>
 
 
