@@ -4,7 +4,7 @@
 making stars of US flag with php
 </p>
 
-<h3>Features 🔥</h3>
+
 
 
 
